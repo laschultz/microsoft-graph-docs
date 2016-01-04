@@ -15,13 +15,13 @@ This topic assumes the following:
 
 To call the Microsoft Graph API, your Python app must complete the following tasks.
 
-1. Register the application in Azure Active Directory
+1. Register the application in the Application Registration Portal
 2. Redirect the browser to the sign in page
 3. Receive an authorization code in your reply URL page
 4. Request an access token from the token issuing endpoint
 5. Use the access token in a request to the Microsoft Graph API 
 
-## Register the application in Azure Active Directory
+## Register the application in the Application Registration Portal
 
 Before you can start working with Office 365, you need to register your application in the [Application Registration Portal](https://apps.dev.microsoft.com).
 
